@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "matsurika.ticket",
+    "package_name": "jp.co.agecode.matsurika",
+    "sha256_cert_fingerprints":
+    ["54:95:CE:12:84:3B:60:5D:E4:27:E4:00:DD:FE:47:4B:FF:D1:8E:DA:D8:AA:AC:99:1E:3C:D9:B5:5C:4E:9E:90"]
+  }
+}]
